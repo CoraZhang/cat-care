@@ -1,3 +1,4 @@
+# An App that manage cat supplies at home and routine care schedule
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
